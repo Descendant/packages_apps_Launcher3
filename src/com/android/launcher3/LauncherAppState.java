@@ -97,7 +97,7 @@ public class LauncherAppState {
         Preconditions.assertUIThread();
         mContext = context;
 
-        setSearchAppAvailable(DscendantUtils.isPackageInstalled(context, LauncherTab.SEARCH_PACKAGE));
+        setSearchAppAvailable(DescendantUtils.isPackageInstalled(context, LauncherTab.SEARCH_PACKAGE));
 
         mInvariantDeviceProfile = new InvariantDeviceProfile(mContext);
         mIconCache = new IconCache(mContext, mInvariantDeviceProfile);
