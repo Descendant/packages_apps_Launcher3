@@ -50,7 +50,7 @@ import com.android.launcher3.qsb.configs.QsbConfiguration;
 import com.android.launcher3.qsb.search.DefaultSearchView;
 import com.android.launcher3.search.SearchThread;
 
-import com.android.internal.util.du.Utils;
+import com.android.internal.util.descendant.Utils;
 
 public class AllAppsQsbView extends BaseQsbView implements SearchUiManager, OnChangeListener {
 

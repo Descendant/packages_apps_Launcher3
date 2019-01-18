@@ -33,7 +33,7 @@ import com.android.launcher3.util.ConfigMonitor;
 import com.android.launcher3.util.Preconditions;
 import com.android.launcher3.util.SettingsObserver;
 
-import com.android.internal.util.du.Utils;
+import com.android.internal.util.descendant.Utils;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

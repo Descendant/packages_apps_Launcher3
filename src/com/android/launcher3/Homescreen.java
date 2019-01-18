@@ -32,7 +32,7 @@ import android.preference.Preference.OnPreferenceChangeListener;
 import android.preference.SwitchPreference;
 import android.view.MenuItem;
 
-import com.android.internal.util.du.Utils;
+import com.android.internal.util.descendant.Utils;
 
 public class Homescreen extends SettingsActivity implements PreferenceFragment.OnPreferenceStartFragmentCallback {
 
