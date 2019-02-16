@@ -18,6 +18,6 @@
             <shape android:shape="rectangle">
                 <solid android:color="#00000000" />
                 <stroke android:width="0.0dip" />
-                <corners android:radius="100.0dip" />
+                <corners android:radius="@*android:dimen/config_dialogCornerRadius" />
             </shape>
 </inset>
