@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/appseat_color" />
+    <corners android:topLeftRadius="@dimen/bkg_appseat_left_radius"
+             android:topRightRadius="@dimen/bkg_appseat_right_radius"/>
+</shape>

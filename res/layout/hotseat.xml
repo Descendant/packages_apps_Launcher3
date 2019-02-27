@@ -24,6 +24,7 @@
         android:layout_height="match_parent"
         android:layout_marginBottom="-8dp"
         android:layout_gravity="center"
+        android:background="@drawable/bkg_appseat"
         launcher:containerType="hotseat"
         android:importantForAccessibility="no" />
 
